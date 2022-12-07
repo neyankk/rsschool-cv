@@ -1,1 +1,1 @@
-https://neyankk.github.io/rsschool-cv/
+https://neyankk.github.io/rsschool-cv/cv
