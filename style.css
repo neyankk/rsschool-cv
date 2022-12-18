@@ -1,0 +1,45 @@
+body {
+    width: 1920px;
+    height: 1080px;
+    margin: 0;
+    overflow:hidden;
+}
+
+.header {
+    width: 1920px;
+    height: 1080px;
+    display: block;
+    position: absolute;
+    background-color: rgb(21, 21, 21);
+}
+
+.avatar {
+    position: absolute;
+    border-radius: 150px;
+    margin-left: 800px;
+    margin-top: 30px;
+    width: 250px;
+}
+
+.name {
+    position: relative;
+    user-select: none;
+    margin-top: 300px;
+    margin-left: 773px;
+    text-align: center;
+    text-transform: uppercase;
+    width: 300px;
+    color: rgb(255, 255, 255);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+.proff {
+    margin-top: -10px;
+    position: relative;
+    margin-left: 776px;
+    text-align: center;
+    text-transform: uppercase;
+    width: 300px;
+    color: rgb(205, 65, 0);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
